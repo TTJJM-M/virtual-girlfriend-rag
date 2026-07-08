@@ -1,0 +1,30 @@
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f7fa;
+  --bg-tertiary: #eef2f6;
+  --text-primary: #303133;
+  --text-secondary: #606266;
+  --text-regular: #909399;
+  --border-color: #dcdfe6;
+  --accent-color: #409eff;
+  --accent-hover: #66b1ff;
+  --success-color: #67c23a;
+  --warning-color: #e6a23c;
+  --danger-color: #f56c6c;
+  --chat-user-bg: #e3f2fd;
+  --chat-assistant-bg: #f5f7fa;
+}
+
+html.dark {
+  --bg-primary: #1d1e1f;
+  --bg-secondary: #262727;
+  --bg-tertiary: #313234;
+  --text-primary: #e5eaf3;
+  --text-secondary: #b4b8be;
+  --text-regular: #8c8f96;
+  --border-color: #434446;
+  --accent-color: #409eff;
+  --accent-hover: #66b1ff;
+  --chat-user-bg: #1a3c5a;
+  --chat-assistant-bg: #262727;
+}
