@@ -61,7 +61,8 @@ pip install -r requirements.txt
 
 系统会自动创建数据库，使用以下默认配置：
 - **MySQL 账号**: `root`
-- **MySQL 密码**: `Ttxhxx`
+- **MySQL 密码**: `123456
+- `
 - **数据库名**: `virtual_girlfriend`
 
 如需修改，编辑 `backend/app/config.py` 或创建 `.env` 文件。
