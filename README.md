@@ -164,7 +164,7 @@ virtual-girlfriend-rag/
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_USER = "root"
-DB_PASSWORD = "Ttxhxx"
+DB_PASSWORD = "yours"
 DB_NAME = "virtual_girlfriend"
 ```
 
